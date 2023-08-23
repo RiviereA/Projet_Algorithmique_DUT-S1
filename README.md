@@ -1,4 +1,4 @@
-# Projet d'Algorithmique (DUT S1)
+# Projet d'Algorithmique (DUT - Semestre 1)
 
 ## Description du projet
 
